@@ -36,12 +36,9 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** en el Institut Les Sa
 
 ## 📊 Estadísticas de GitHub
 
-<!-- Estas imágenes se generan automáticamente con tus datos reales -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xbaut&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xavi123321&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbaut&layout=compact&theme=radical)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavi123321&layout=compact&theme=radical)
 
 ## 🔗 Enlaces
 
